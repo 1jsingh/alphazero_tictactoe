@@ -7,4 +7,4 @@ The trained alphazero agent easily defeats me!
 * Player1 (Red): Alphazero  
 * Player2 (Blue) : Me  
 
-![alphazero_vs_human](images/alphazero_tictactoe_vs_human)
+![alphazero_vs_human](images/trained_agent_vs_human)
