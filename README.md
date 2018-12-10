@@ -1,5 +1,5 @@
 # Alphazero for 6-6-4 Tictactoe
-Implementation of alphazero learning approach for 6-6-4 Tictactoe
+Implementation of alphazero learning algorithm for 6-6-4 Tictactoe
 
 ## Trained Alphazero agent vs human!
 
