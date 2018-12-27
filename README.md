@@ -3,7 +3,7 @@ Implementation of alphazero learning algorithm for 6-6-4 Tictactoe
 
 ## Trained Alphazero agent vs human!
 
-*The trained alphazero agent easily defeats me!*   
+*The trained alphazero agent easily defeated me!*   
 * ***Player1 (Red) : Alphazero*** 
 * ***Player2 (Blue) : Me*** 
 
